@@ -26,3 +26,7 @@
 	path = packages/backend-common
 	url = https://github.com/erd-tool/erd-tool-backend-common.git
 	branch = main
+[submodule "infra/k8s-manifests"]
+	path = infra/k8s-manifests
+	url = https://github.com/erd-tool/erd-tool-k8s-manifests.git
+	branch = main
