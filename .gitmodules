@@ -1,0 +1,28 @@
+[submodule "apps/frontend"]
+	path = apps/frontend
+	url = https://github.com/erd-tool/erd-tool-frontend.git
+	branch = main
+[submodule "services/gateway-service"]
+	path = services/gateway-service
+	url = https://github.com/erd-tool/erd-tool-gateway-service.git
+	branch = main
+[submodule "services/auth-service"]
+	path = services/auth-service
+	url = https://github.com/erd-tool/erd-tool-auth-service.git
+	branch = main
+[submodule "services/team-service"]
+	path = services/team-service
+	url = https://github.com/erd-tool/erd-tool-team-service.git
+	branch = main
+[submodule "services/erd-service"]
+	path = services/erd-service
+	url = https://github.com/erd-tool/erd-tool-erd-service.git
+	branch = main
+[submodule "services/collaboration"]
+	path = services/collaboration
+	url = https://github.com/erd-tool/erd-tool-collaboration.git
+	branch = main
+[submodule "packages/backend-common"]
+	path = packages/backend-common
+	url = https://github.com/erd-tool/erd-tool-backend-common.git
+	branch = main
